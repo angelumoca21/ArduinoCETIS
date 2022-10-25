@@ -7,6 +7,7 @@ void setup()
 {
   pinMode(DIP, INPUT);
   pinMode(LED, OUTPUT);
+  Serial.begin(9600);
 }
 
 void loop()
@@ -15,9 +16,11 @@ void loop()
   if (edoDip == HIGH)
   {
     digitalWrite(LED, 1);
+    Serial.println("1");
   }
   else
   {
     digitalWrite(LED, 0);
+    Serial.println("0");
   }
 }
