@@ -10,5 +10,6 @@ Autor: Angel Morales
 
 Realiza los siguientes circuitos y comprueba su funcionamiento:
 
--[Blink - Salidas digitales](https://github.com/angelumoca21/ArduinoCETIS/tree/main/1.blink)
--[Dipswitch - Entradas digitales]()
+[Blink - Salidas digitales](https://github.com/angelumoca21/ArduinoCETIS/tree/main/1.blink)
+
+[Dipswitch - Entradas digitales](https://github.com/angelumoca21/ArduinoCETIS/tree/main/2.dipswitch)
