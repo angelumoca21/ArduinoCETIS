@@ -13,3 +13,8 @@ Realiza los siguientes circuitos y comprueba su funcionamiento:
 [Blink - Salidas digitales](https://github.com/angelumoca21/ArduinoCETIS/tree/main/1.blink)
 
 [Dipswitch - Entradas digitales](https://github.com/angelumoca21/ArduinoCETIS/tree/main/2.dipswitch)
+
+# Sesión 3
+[Presentanción](https://drive.google.com/file/d/1QJB0yw7pe2Z9oRlOOOyncJP8H1npbgI_/view?usp=sharing)
+
+Con los conocimientos que ya tienes sobre entradas y salidas digitales realiza un circuito decodificador BCD a 7 segmentos.
