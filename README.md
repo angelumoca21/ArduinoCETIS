@@ -14,7 +14,9 @@ Realiza los siguientes circuitos y comprueba su funcionamiento:
 
 [Dipswitch - Entradas digitales](https://github.com/angelumoca21/ArduinoCETIS/tree/main/2.dipswitch)
 
-# Sesión 3
+# Sesión 3 y 4
 [Presentanción](https://drive.google.com/file/d/1QJB0yw7pe2Z9oRlOOOyncJP8H1npbgI_/view?usp=sharing)
+
+[Material de apoyo](https://github.com/angelumoca21/ArduinoCETIS/tree/main/3.decodificador)
 
 Con los conocimientos que ya tienes sobre entradas y salidas digitales realiza un circuito decodificador BCD a 7 segmentos.
